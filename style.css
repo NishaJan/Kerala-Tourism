@@ -1,0 +1,59 @@
+*{ margin: 0cm;
+  padding: 0em;}
+
+.menufont{
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-size: 20px;
+    margin-right: 1em;
+       
+} 
+.navbar-nav > li > .dropdown-menu { background-color:rgb(106, 230, 75); font-size: 20px;}
+.navbar-nav > li > .dropdown-menu a{ color: white}
+
+.container-fluid{   
+    background-color: rgb(53, 211, 21);
+      
+}
+.carousel-inner{
+    max-height: 90vh;
+}
+ .carousel-caption h3{
+    font-size: 40px;
+    text-transform:none;
+    font-style: italic;
+    font-family: cursive;
+    text-align: left;
+    padding-left: 0em;
+}
+  .carousel-caption p{
+    padding-bottom:16em;
+    text-align: left;
+}
+.highlighted{
+  color:#fff;
+  background-color:rgb(55, 228, 84);
+ }
+footer{
+  background-color: rgb(20, 201, 186);
+  line-height: 7px;
+  
+ }
+ .text-center a{
+  padding: 1em;
+  size: 2em;
+  margin-right: 3em;
+ }
+.signup{
+  margin-top: 1em;
+  padding: 3em;
+  padding-left: 5em;
+}
+.Login{
+  
+  margin-top: 1em;
+  padding: 3em;
+  float: right;
+  padding-right: 5em;
+  
+}
